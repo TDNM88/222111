@@ -2,9 +2,9 @@
   "name": "image-generation-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/your-repo",
+  "homepage": "https://tdnm88.github.io/222111",
   "dependencies": {
-    "@shadcn/ui": "^0.0.0", // Đảm bảo bạn có đúng phiên bản
+    "@shadcn/ui": "^0.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
